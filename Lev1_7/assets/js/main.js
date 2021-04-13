@@ -2,12 +2,12 @@ let helloworld = Hello World;
 
 const pi = 3.14;
 
-let burjdubai = 828m;
+let burjDubai = 828m;
 
 const fullname = Jan Schmidt;
 
-let eifeltower = 324m;
+let eifelTower = 324m;
 
 const camelcase = camelCase;
 
-let kursstatus = true;
+let kursStatus = true;
