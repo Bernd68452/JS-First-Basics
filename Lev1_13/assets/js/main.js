@@ -1,23 +1,19 @@
-a = 12;
-b = a * 3;
-console.log(b);
+// Addition
+let addition_operator = 1 + 1;
+console.log("addition: " + addition_operator);
 
-//let Hello World;
-//let greeting = "Hello World!";
-console.log("Hello World!");
-console.log("Anton")
+// Subtraktion
+let subtraktion_operator = 2 - 1;
+console.log("subtraktion: " + subtraktion_operator);
 
-//let name = "Anton";
-//console.log("Anton");
+// Multiplikation
+let multiplication_operator = 2 * 2;
+console.log("multiplication: " + multiplication_operator);
 
-let age = "28";
-console.log("28");
+//Division
+let division_operator = 4 / 2;
+console.log("division: " + division_operator);
 
-let job = "Trainer";
-console.log("Trainer");
-
-var married = true;
-console.log("married");
-
-let greeting = "Anton ist 28 Jahre alt und ist verheiratet: true"
-console.log("Anton ist 28 Jahre alt und ist verheiratet: true")
+// Modul: zeigt an, was der Rest sein würde.
+let modulus_operator = 14 % 5;
+console.log("modulus: " + modulus_operator);
